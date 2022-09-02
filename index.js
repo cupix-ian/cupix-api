@@ -1,0 +1,1 @@
+CupixApi.init('cupix-container');
