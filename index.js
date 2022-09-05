@@ -1,1 +1,1 @@
-CupixApi.init('cupix-container');
+siteView4embed.init('cupix-container');
